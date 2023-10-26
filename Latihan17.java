@@ -10,7 +10,7 @@ import java.util.Scanner;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
- Deskripsi Program :Program Tunjangan
+ Deskripsi Program :Program menghitung Tunjangan karyawan sudah menikah atau belum   
  */
 public class Latihan17 {
 
