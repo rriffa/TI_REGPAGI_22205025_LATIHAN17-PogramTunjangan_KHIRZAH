@@ -10,6 +10,7 @@ import java.util.Scanner;
  Nama :Ma'rifatu Khirzah
  NIM :22205025
  Prodi :Teknik Informatika
+ Deskripsi Program :Program Tunjangan
  */
 public class Latihan17 {
 
